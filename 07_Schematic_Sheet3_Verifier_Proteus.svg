@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1150" viewBox="0 0 1700 1150" font-family="Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphMWJkNmE2My05NTUzLTQzODAtYjI4My00MmY3OWE4NDYxNjYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCVH89Q6yRdWDewv5vTj2QQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ZGI1ZGMxNC0wYjBiLTQ1M2YtODYxYi05ODgwMjc0ZDJlMzZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoRMmhcXkhlMN4SHzbWfjpEAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggVf3kAwvd4MByrqVoAOhJ7eeeVXel+Mva4Bx5As98526kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHorKZvHZKolIUS57fx/6XEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCB7BuCfAWfv8EroiQxyG/B1LknleWo3HqftCZSd97KZAmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmExYmQ2YTYzLTk1NTMtNDM4MC1iMjgzLTQyZjc5YTg0NjE2Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJlYjlmMGRhLTExYjUtNDZhZC05NjFiLTQwYTlkNGI1ODFiM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBV/eQDC93gwHKupWgA6Ent555Vd6X4y9rgHHkCz3znbqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggY08QnpqVDPdis1B+Lv0sFhn6lzf90gBqxGgFqL2k89GiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrWZLj05wnAW20QZwVrAWYv0B3d+4Qfk0GF1mJcmFZ4p0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQK7JQYdRSRRHCmE4zhpfARWSt5Z7EDz20jUUomzQE+1zBfe9G+uBDg+Ar9UYb+I8Dhv1HPCCKqQ2/Rh8euc/I1o=</c2pa:manifest></metadata>
+<title>Sheet 3 - Verifier Proteus version</title>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="28" font-size="18" text-anchor="start" dominant-baseline="central" fill="#111" font-weight="700">SHEET 3 OF 3  -  EXTERNAL VERIFIER, PROTEUS VERSION  (Arduino Mega stand-in for ESP32 + ATM90E26)</text>
+<text x="60" y="62" font-size="13" text-anchor="start" dominant-baseline="central" fill="#D85A30" font-weight="700">MAINS TIE-IN: insert ACS2 in series after ACS1</text>
+<polyline points="130,110 200,110" fill="none" stroke="#D85A30" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="130,110 121,101 56,101 56,119 121,119" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="90.0" y="110" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">ACS1 IP-</text>
+<rect x="200" y="70" width="180" height="130" rx="4" fill="#f4f4ef" stroke="#333" stroke-width="1.6"/>
+<text x="290" y="88" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">ACS2</text>
+<text x="290" y="106" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">ACS712ELCTR-05B-T</text>
+<text x="208" y="110" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">IP+</text>
+<text x="372" y="110" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">IP-</text>
+<circle cx="200" cy="110" r="3.5" fill="#D85A30"/>
+<circle cx="380" cy="110" r="3.5" fill="#D85A30"/>
+<polyline points="380,110 450,110" fill="none" stroke="#D85A30" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="450,110 459,101 524,101 524,119 459,119" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="490.0" y="110" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">LAMP BUS</text>
+<text x="225" y="186" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">VCC</text>
+<text x="270" y="186" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">FILTER</text>
+<text x="315" y="186" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">GND</text>
+<text x="353" y="186" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">VIOUT</text>
+<polyline points="225,200 225,214" fill="none" stroke="#BA7517" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="225,214 216,205 186,205 186,223 216,223" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="202.5" y="214" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">+5V</text>
+<polyline points="270,200 270,220" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="270,220 270,232.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="270,240.0 270,252" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="258,232.0 282,232.0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="258,240.0 282,240.0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="252" y="236.0" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">C6  1nF</text>
+<polyline points="270,252 270,260" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="258,260 282,260" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="262,264 278,264" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="266,268 274,268" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="315,200 315,222" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="315,222 315,230" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="303,230 327,230" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="307,234 323,234" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="311,238 319,238" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="353,200 353,226" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="353,226 362,217 420,217 420,235 362,235" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="389.5" y="226" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">ISENSE2</text>
+<text x="60" y="282" font-size="11" text-anchor="start" dominant-baseline="central" fill="#555" font-style="italic">Cut the wire ACS1 IP- -> lamp bus, then wire ACS1 IP- -> ACS2 IP+ and ACS2 IP- -> lamp bus.</text>
+<rect x="50" y="332" width="590" height="268" rx="4" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="60" y="348" font-size="13" text-anchor="start" dominant-baseline="central" fill="#1D9E75" font-weight="700">VOLTAGE SENSING 2 (independent of Sheet 1)</text>
+<polyline points="90,380 130,380" fill="none" stroke="#D85A30" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="90,380 81,371 44,371 44,389 81,389" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="64.0" y="380" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">LIVE</text>
+<polyline points="90,460 130,460" fill="none" stroke="#6b6b66" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="90,460 81,451 23,451 23,469 81,469" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="53.5" y="460" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">NEUTRAL</text>
+<path d="M130 380 a10 10 0 0 1 0 20 a10 10 0 0 1 0 20 a10 10 0 0 1 0 20 a10 10 0 0 1 0 20" fill="none" stroke="#111" stroke-width="1.8"/>
+<path d="M192 380 a10 10 0 0 0 0 20 a10 10 0 0 0 0 20 a10 10 0 0 0 0 20 a10 10 0 0 0 0 20" fill="none" stroke="#111" stroke-width="1.8"/>
+<polyline points="157,376 157,464" fill="none" stroke="#111" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="165,376 165,464" fill="none" stroke="#111" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="161" y="356" font-size="12" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">TR2</text>
+<text x="100" y="526" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">TRAN-2P2S  20 : 1</text>
+<text x="100" y="542" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">400 H / 1 H, k = 0.999</text>
+<text x="204" y="372" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#111">S1</text>
+<text x="204" y="468" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#111">S2</text>
+<polyline points="192,380 240,380" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="240,380 255.0,380" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="295.0,380 310,380" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="255.0" y="373" width="40" height="14" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="275.0" y="362" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">R10  68k</text>
+<polyline points="310,380 540,380" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="540,380 549,371 607,371 607,389 549,389" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="576.5" y="380" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">VSENSE2</text>
+<circle cx="370" cy="380" r="3.5" fill="#1D9E75"/>
+<text x="370" y="364" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">A0NET2</text>
+<polyline points="370,380 370,420.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="370,460.0 370,500" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="363" y="420.0" width="14" height="40" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="384" y="440.0" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">R11  10k</text>
+<polyline points="192,460 192,500 540,500" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="370" cy="500" r="3.5" fill="#1D9E75"/>
+<circle cx="470" cy="500" r="3.5" fill="#1D9E75"/>
+<text x="262" y="486" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">VBIAS = 2.5 V</text>
+<polyline points="470,430 470,445.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="470,485.0 470,500" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="463" y="445.0" width="14" height="40" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="484" y="465.0" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">R12  10k</text>
+<polyline points="470,430 470,418" fill="none" stroke="#BA7517" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="463,418 477,418" fill="none" stroke="#BA7517" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="470" y="408" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#BA7517" font-weight="700">+5V</text>
+<polyline points="470,500 470,515.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="470,555.0 470,570" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="463" y="515.0" width="14" height="40" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="484" y="535.0" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">R13  10k</text>
+<polyline points="470,570 470,578" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="458,578 482,578" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="462,582 478,582" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="466,586 474,586" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="540,500 540,531.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="540,539.0 540,570" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="528,531.0 552,531.0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="528,539.0 552,539.0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="558" y="535.0" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">C5  10uF</text>
+<polyline points="540,570 540,578" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="528,578 552,578" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="532,582 548,582" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="536,586 544,586" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="526" y="512" font-size="12" text-anchor="end" dominant-baseline="central" fill="#111" font-weight="700">+</text>
+<rect x="50" y="660" width="590" height="250" rx="4" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="60" y="676" font-size="13" text-anchor="start" dominant-baseline="central" fill="#1D9E75" font-weight="700">LINK FROM METER AND SERIAL LOG</text>
+<polyline points="300,720 600,720" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="300,720 291,711 130,711 130,729 291,729" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="212.0" y="720" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">TX1 (Sheet 1, U1 D18)</text>
+<polygon points="600,720 609,711 688,711 688,729 609,729" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="647.0" y="720" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">FROM_METER</text>
+<text x="300" y="748" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#555" font-style="italic">Direct wire (both boards 5 V). Join the GND of both Megas.</text>
+<rect x="330" y="790" width="230" height="74" rx="4" fill="#f4f4ef" stroke="#333" stroke-width="1.6"/>
+<text x="445.0" y="806" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">VT2  Virtual Terminal</text>
+<text x="445.0" y="823" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#444">115200 8N1: log + commands</text>
+<text x="552" y="826" font-size="10.5" text-anchor="end" dominant-baseline="central" fill="#111">RXD</text>
+<text x="552" y="846" font-size="10.5" text-anchor="end" dominant-baseline="central" fill="#111">TXD</text>
+<circle cx="560" cy="826" r="3.5" fill="#1D9E75"/>
+<circle cx="560" cy="846" r="3.5" fill="#1D9E75"/>
+<polyline points="560,826 600,826" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="600,826 609,817 639,817 639,835 609,835" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="622.5" y="826" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">TX0</text>
+<polyline points="560,846 600,846" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="600,846 609,837 639,837 639,855 609,855" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="622.5" y="846" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">RX0</text>
+<rect x="720" y="360" width="220" height="470" rx="4" fill="#eaf5f0" stroke="#333" stroke-width="1.6"/>
+<text x="830" y="590" font-size="14" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">U3  Arduino Mega 2560</text>
+<text x="830" y="610" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">verifier firmware (04_...ino)</text>
+<polyline points="720,400 700,400" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700,400 691,391 633,391 633,409 691,409" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="663.5" y="400" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">ISENSE2</text>
+<text x="728" y="400" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">A1</text>
+<polyline points="720,430 700,430" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700,430 691,421 633,421 633,439 691,439" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="663.5" y="430" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">VSENSE2</text>
+<text x="728" y="430" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">A0</text>
+<polyline points="720,460 700,460" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700,460 691,451 612,451 612,469 691,469" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="653.0" y="460" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">FROM_METER</text>
+<text x="728" y="460" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D19 RX1</text>
+<polyline points="720,490 700,490" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700,490 691,481 661,481 661,499 691,499" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="677.5" y="490" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">TX0</text>
+<text x="728" y="490" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D1 TX0</text>
+<polyline points="720,520 700,520" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700,520 691,511 661,511 661,529 691,529" fill="#fff" stroke="#333" stroke-width="1.3"/>
+<text x="677.5" y="520" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">RX0</text>
+<text x="728" y="520" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D0 RX0</text>
+<polyline points="790,360 790,342" fill="none" stroke="#BA7517" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="790,342 790,330" fill="none" stroke="#BA7517" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="783,330 797,330" fill="none" stroke="#BA7517" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="790" y="320" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#BA7517" font-weight="700">+5V</text>
+<text x="790" y="372" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">5V</text>
+<polyline points="880,830 880,848" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="880,848 880,856" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="868,856 892,856" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="872,860 888,860" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="876,864 884,864" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="880" y="816" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#111">GND</text>
+<polyline points="940,400 1100,400" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="400" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D22</text>
+<text x="1020" y="391" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_RS</text>
+<polyline points="940,430 1100,430" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="430" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D23</text>
+<text x="1020" y="421" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_E</text>
+<polyline points="940,460 1100,460" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="460" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D24</text>
+<text x="1020" y="451" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_D4</text>
+<polyline points="940,490 1100,490" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="490" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D25</text>
+<text x="1020" y="481" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_D5</text>
+<polyline points="940,520 1100,520" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="520" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D26</text>
+<text x="1020" y="511" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_D6</text>
+<polyline points="940,550 1100,550" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="550" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D27</text>
+<text x="1020" y="541" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LCD_D7</text>
+<rect x="1100" y="370" width="200" height="200" rx="4" fill="#f4f4ef" stroke="#333" stroke-width="1.6"/>
+<text x="1200.0" y="386" font-size="13" text-anchor="middle" dominant-baseline="central" fill="#111" font-weight="700">LCD2  LM044L</text>
+<text x="1108" y="400" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">RS</text>
+<text x="1108" y="430" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">E</text>
+<text x="1108" y="460" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D4</text>
+<text x="1108" y="490" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D5</text>
+<text x="1108" y="520" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D6</text>
+<text x="1108" y="550" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">D7</text>
+<text x="1292" y="400" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">VSS</text>
+<text x="1292" y="430" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">VDD</text>
+<text x="1292" y="460" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">VEE</text>
+<text x="1292" y="490" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">RW</text>
+<polyline points="1300,400 1330,400" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1330,400 1330,408" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1318,408 1342,408" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1322,412 1338,412" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1326,416 1334,416" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1300,430 1370,430" fill="none" stroke="#BA7517" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1370,430 1370,418" fill="none" stroke="#BA7517" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1363,418 1377,418" fill="none" stroke="#BA7517" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1370" y="408" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#BA7517" font-weight="700">+5V</text>
+<polyline points="1300,460 1425,460" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1433,460 1423,455 1423,465" fill="#111"/>
+<polyline points="1440,420 1440,440.0" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1440,480.0 1440,500" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1433" y="440.0" width="14" height="40" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="1454" y="460.0" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">RV2  10k</text>
+<polyline points="1440,420 1440,408" fill="none" stroke="#BA7517" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1433,408 1447,408" fill="none" stroke="#BA7517" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1440" y="398" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#BA7517" font-weight="700">+5V</text>
+<polyline points="1440,500 1440,508" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1428,508 1452,508" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1432,512 1448,512" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1436,516 1444,516" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1300,490 1330,490" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1330,490 1330,498" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1318,498 1342,498" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1322,502 1338,502" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1326,506 1334,506" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="940,640 1000,640" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="640" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D8</text>
+<text x="970" y="628" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LED_G</text>
+<polyline points="1000,640 1015.0,640" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1055.0,640 1070,640" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1015.0" y="633" width="40" height="14" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="1035.0" y="622" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">R14  330</text>
+<polyline points="1070,640 1110,640" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1110,628 1110,652 1132,640" fill="#2e9e4f" stroke="#111" stroke-width="1.4"/>
+<polyline points="1132,628 1132,652" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1132,640 1170,640 1170,662" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1170,662 1170,670" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1158,670 1182,670" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1162,674 1178,674" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1166,678 1174,678" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1190" y="633" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">LED2  LED</text>
+<text x="1190" y="649" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#444">NORMAL</text>
+<polyline points="940,700 1000,700" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="700" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D9</text>
+<text x="970" y="688" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LED_Y</text>
+<polyline points="1000,700 1015.0,700" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1055.0,700 1070,700" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1015.0" y="693" width="40" height="14" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="1035.0" y="682" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">R15  330</text>
+<polyline points="1070,700 1110,700" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1110,688 1110,712 1132,700" fill="#e0b000" stroke="#111" stroke-width="1.4"/>
+<polyline points="1132,688 1132,712" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1132,700 1170,700 1170,722" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1170,722 1170,730" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1158,730 1182,730" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1162,734 1178,734" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1166,738 1174,738" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1190" y="693" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">LED3  LED</text>
+<text x="1190" y="709" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#444">SUSPECT</text>
+<polyline points="940,760 1000,760" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="932" y="760" font-size="11" text-anchor="end" dominant-baseline="central" fill="#111">D10</text>
+<text x="970" y="748" font-size="10.5" text-anchor="middle" dominant-baseline="central" fill="#146c52">LED_R</text>
+<polyline points="1000,760 1015.0,760" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1055.0,760 1070,760" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1015.0" y="753" width="40" height="14" rx="2" fill="#f4f4ef" stroke="#333" stroke-width="1.5"/>
+<text x="1035.0" y="742" font-size="11" text-anchor="middle" dominant-baseline="central" fill="#111">R16  330</text>
+<polyline points="1070,760 1110,760" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1110,748 1110,772 1132,760" fill="#d33" stroke="#111" stroke-width="1.4"/>
+<polyline points="1132,748 1132,772" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1132,760 1170,760 1170,782" fill="none" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1170,782 1170,790" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1158,790 1182,790" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1162,794 1178,794" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1166,798 1174,798" fill="none" stroke="#222" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1190" y="753" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">LED4  LED</text>
+<text x="1190" y="769" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#444">ALERT</text>
+<rect x="1250" y="620" width="430" height="330" rx="4" fill="#fafaf5" stroke="#333" stroke-width="1.6"/>
+<text x="1262" y="638" font-size="13" text-anchor="start" dominant-baseline="central" fill="#111" font-weight="700">NOTES</text>
+<text x="1262" y="662" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">1. U3 is a second Mega with its OWN sensors:</text>
+<text x="1262" y="683" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">    it measures the load independently of the meter U1.</text>
+<text x="1262" y="704" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">2. TR2 = TR1 settings (400 H / 1 H, k 0.999). ACS2 is in</text>
+<text x="1262" y="725" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">    series with ACS1 so both see the same current.</text>
+<text x="1262" y="746" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">3. LIVE, NEUTRAL, GND are shared with Sheet 1.</text>
+<text x="1262" y="767" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">    The R7 reference on Sheet 1 also covers this sheet.</text>
+<text x="1262" y="788" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">4. FROM_METER = wire from Sheet 1 U1 D18 (TX1) to U3 D19.</text>
+<text x="1262" y="809" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">5. Load 04_Verifier_Proteus_Mega.ino into U3.</text>
+<text x="1262" y="830" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">6. Type L0 / L1 / R&lt;n> in VT2 to label the experiment.</text>
+<text x="1262" y="851" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">7. LEDs: green NORMAL, yellow SUSPECT, red ALERT.</text>
+<text x="1262" y="872" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">8. Stand-in for ESP32 + ATM90E26 (no Proteus models).</text>
+<text x="1262" y="893" font-size="11.2" text-anchor="start" dominant-baseline="central" fill="#111">    Real hardware: Sheet 2 + 02_Verifier_ESP32_ATM90E26.ino.</text>
+<rect x="1250" y="1070" width="430" height="66" rx="4" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<text x="1262" y="1088" font-size="12.5" text-anchor="start" dominant-baseline="central" fill="#111" font-weight="700">EXTERNAL VERIFIER (PROTEUS)  -  SHEET 3 / 3</text>
+<text x="1262" y="1108" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">Rev 1.0   14 Oct 2026</text>
+<text x="1262" y="1124" font-size="10.5" text-anchor="start" dominant-baseline="central" fill="#555" font-style="italic">Values from calculation; verify in simulation.</text>
+<polyline points="60,1130 90,1130" fill="none" stroke="#D85A30" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="96" y="1130" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">LIVE / LAMP BUS</text>
+<polyline points="210,1130 240,1130" fill="none" stroke="#6b6b66" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="246" y="1130" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">NEUTRAL</text>
+<polyline points="360,1130 390,1130" fill="none" stroke="#1D9E75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="396" y="1130" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">signal</text>
+<polyline points="510,1130 540,1130" fill="none" stroke="#BA7517" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="546" y="1130" font-size="11" text-anchor="start" dominant-baseline="central" fill="#111">+5 V</text>
+</svg>
