@@ -7,7 +7,7 @@
 | `01_Meter_Mega2560.ino` | Meter under test (Arduino Mega, Proteus) |
 | `02_Verifier_ESP32_ATM90E26.ino` | Hardware verifier (ESP32 + ATM90E26) |
 | `03_Analysis_and_AI.py` | Window analysis, threshold baseline, decision tree / random forest |
-| `04_Value_Sheet.xlsx` | Every component value and calculation (formulas, editable) |
+| `04_Value_Sheet.xlsx` | Every component value and calculation (formulas) |
 | `04_Verifier_Proteus_Mega.ino` | Verifier stand-in for Proteus (second Mega) |
 | `05_Schematic_Sheet1_Meter.svg` | Sheet 1: meter schematic |
 | `06_Schematic_Sheet2_Verifier.svg` | Sheet 2: ESP32 + ATM90E26 hardware |
