@@ -13,26 +13,7 @@
 | `06_Schematic_Sheet2_Verifier.svg` | Sheet 2: ESP32 + ATM90E26 hardware |
 | `07_Schematic_Sheet3_Verifier_Proteus.svg` | Sheet 3: verifier you build in Proteus |
 
-A Proteus project file (`.pdsprj`) cannot be generated here. The three sheets plus the value sheet are what you build from.
-
-**Build order:** Sheet 1 (meter) → check it → Sheet 3 (verifier) → check it → Sheet 2 on real hardware.
-
-## 1. Your current simulation
-
-| Symptom | Cause | Fix |
-|---|---|---|
-| `Timestep too small` and `GMIN stepping` at about 1.7 ms, LCD blank | Solver cannot converge | Lamps to **230 V**; TR1 coupling **0.999**; add **R7 1 MΩ** from NEUTRAL to GND; C1 must be **10 µF** |
-| `PF: NAN` | Current above the noise floor but voltage reads 0: fixed in the new sketch (PF is now 0) | Fix the voltage channel (below) |
-| `P: 0.0 W` with lamps on | Real power needs a voltage reading; if V = 0 then P = 0 | Fix the voltage channel (below) |
-
-**Voltage channel check (do in this order):**
-1. With the simulation running, the AC voltmeter across the TR1 secondary should read about **11.5 V**. If it reads far less, check TR1 (400 H / 1 H) and the source (328 V amplitude).
-2. A0 should carry an AC signal around 2.5 V. If it does not, the R1/R2 junction is not on the pin labelled **A0** (check it is not on A1 or a neighbour).
-3. The LCD page `V:` should then read about 230 V.
-
-**Escape route if the analog part will not converge:** set `USE_TEST_INPUTS = true` in the meter sketch and tick *Exclude from Simulation* on AC1, TR1, ACS1 and the lamps. Press `0`–`3` on the keypad to choose how many 100 W lamps are on. The prepaid logic, tokens, relay and verifier all still work.
-
-## 2. Meter (Sheet 1): build and check
+## 1. Meter (Sheet 1): build and check
 
 Compile in the Arduino IDE (*Sketch → Export Compiled Binary*), put the `.hex` (without bootloader) in the Mega's *Program File*, clock 16 MHz.
 
