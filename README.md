@@ -31,7 +31,7 @@ Expected values (100 W lamps, 230 V) are on the value sheet: 0.435 / 0.870 / 1.3
 **Keypad:** `#` starts token entry, `*` is backspace (exits when empty), `#` submits.
 **Tokens:** `123456789012` ₦1000, `111111111111` ₦500, `222222222222` ₦2000, `333333333333` ₦100, `444444444444` ₦50, `555555555555` ₦5000. Each works once per run.
 
-## 3. Verifier in Proteus (Sheet 3)
+## 2. Verifier in Proteus (Sheet 3)
 
 Proteus has no ATM90E26 or ESP32 model, so a second Mega (U3) acts as both: it measures the load with its own sensors and checks the meter. Steps:
 
@@ -45,7 +45,7 @@ Check: U3's LCD shows `NORMAL` after the first minute of simulation time. In VT2
 
 **Test under-registration:** set `UNDER_REG_PERCENT = 10.0` in the meter sketch, rebuild the `.hex`, run with lamps on. U3 goes SUSPECT after the first bad window and ALERT after three (red LED).
 
-## 4. Hardware verifier (Sheet 2): bring-up and calibration
+## 3. Hardware verifier (Sheet 2): bring-up and calibration
 
 Treat this stage as **unverified until you have done each step**; the ATM90E26 section of the firmware follows the datasheet register map as recalled and is marked VERIFY in the code.
 
@@ -76,7 +76,7 @@ It splits the data **by run** (no leakage), reports detection rate, false-positi
 
 To test the pipeline before you have data: `python 03_Analysis_and_AI.py synthetic --out s.csv`, then `analyze --csv s.csv`. Those numbers are **not** thesis results.
 
-## 6. Mapping to your 12-week plan
+## 5. Mapping 12-week plan
 
 | Weeks | Pack items |
 |---|---|
@@ -88,7 +88,7 @@ To test the pipeline before you have data: `python 03_Analysis_and_AI.py synthet
 | 11 | `03_Analysis_and_AI.py` on real data; compare with baseline |
 | 12 | Report limits (below) |
 
-## 7. Limits to state in the thesis
+## 6. Limits to state in the thesis
 
 - Proteus validates the prepaid logic and algorithm, not physical measurement accuracy.
 - The Proteus verifier is an Arduino stand-in; the ESP32 / ATM90E26 results come only from the hardware stage.
